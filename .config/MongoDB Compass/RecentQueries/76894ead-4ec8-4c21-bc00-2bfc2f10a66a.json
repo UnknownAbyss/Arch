@@ -1,0 +1,1 @@
+{"_id":"76894ead-4ec8-4c21-bc00-2bfc2f10a66a","filter":{"email":{"$regex":"rohan","$options":"gi"}},"_lastExecuted":{"$date":"2021-03-14T18:35:11.161Z"},"_ns":"spacey.users"}

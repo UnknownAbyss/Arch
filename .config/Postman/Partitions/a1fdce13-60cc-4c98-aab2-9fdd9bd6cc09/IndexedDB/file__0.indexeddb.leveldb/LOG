@@ -1,0 +1,33 @@
+2021/03/18-15:03:37.615 1393 Reusing MANIFEST /home/unknownabyss/.config/Postman/Partitions/a1fdce13-60cc-4c98-aab2-9fdd9bd6cc09/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/03/18-15:03:37.616 1393 Recovering log #32
+2021/03/18-15:03:37.836 1393 Reusing old log /home/unknownabyss/.config/Postman/Partitions/a1fdce13-60cc-4c98-aab2-9fdd9bd6cc09/IndexedDB/file__0.indexeddb.leveldb/000032.log 
+2021/03/18-15:03:37.838 1393 Delete type=2 #33
+2021/03/18-15:03:37.838 1393 Delete type=2 #30
+2021/03/18-15:03:43.123 1424 Level-0 table #37: started
+2021/03/18-15:03:43.243 1424 Level-0 table #37: 999764 bytes OK
+2021/03/18-15:03:43.342 1424 Delete type=0 #32
+2021/03/18-15:03:47.186 1424 Compacting 1@1 + 1@2 files
+2021/03/18-15:03:47.241 1424 Generated table #38@1: 1583 keys, 163370 bytes
+2021/03/18-15:03:47.241 1424 Compacted 1@1 + 1@2 files => 163370 bytes
+2021/03/18-15:03:47.291 1424 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/18-15:03:51.959 1424 Level-0 table #40: started
+2021/03/18-15:03:51.992 1424 Level-0 table #40: 82418 bytes OK
+2021/03/18-15:03:52.030 1424 Delete type=2 #34
+2021/03/18-15:03:52.030 1424 Delete type=2 #37
+2021/03/18-15:03:52.030 1424 Delete type=0 #36
+2021/03/18-15:03:52.031 1424 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/18-15:03:52.031 1424 Manual compaction at level-1 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 18614 : 0
+2021/03/18-15:03:52.031 1424 Compacting 1@1 + 1@2 files
+2021/03/18-15:03:52.082 1424 Generated table #41@1: 1579 keys, 122910 bytes
+2021/03/18-15:03:52.082 1424 Compacted 1@1 + 1@2 files => 122910 bytes
+2021/03/18-15:03:52.118 1424 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/18-15:03:52.119 1424 Delete type=2 #40
+2021/03/18-15:03:52.119 1424 Manual compaction at level-1 from '\x00\x0b\x00\x00\x05' @ 18614 : 0 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/19-03:48:01.084 1424 Level-0 table #43: started
+2021/03/19-03:48:01.221 1424 Level-0 table #43: 1069310 bytes OK
+2021/03/19-03:48:01.294 1424 Delete type=0 #39
+2021/03/19-03:48:01.294 1424 Delete type=2 #38
+2021/03/19-03:48:24.791 1424 Compacting 1@1 + 1@2 files
+2021/03/19-03:48:24.930 1424 Generated table #44@1: 1853 keys, 273057 bytes
+2021/03/19-03:48:24.930 1424 Compacted 1@1 + 1@2 files => 273057 bytes
+2021/03/19-03:48:24.971 1424 compacted to: files[ 0 0 1 0 0 0 0 ]

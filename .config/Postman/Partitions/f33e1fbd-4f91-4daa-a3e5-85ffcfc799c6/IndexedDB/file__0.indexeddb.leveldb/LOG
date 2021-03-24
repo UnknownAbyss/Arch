@@ -1,0 +1,32 @@
+2021/03/12-01:55:48.856 b162 Reusing MANIFEST /home/unknownabyss/.config/Postman/Partitions/f33e1fbd-4f91-4daa-a3e5-85ffcfc799c6/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/03/12-01:55:48.990 b1d0 Level-0 table #5: started
+2021/03/12-01:55:49.046 b1d0 Level-0 table #5: 494 bytes OK
+2021/03/12-01:55:49.146 b1d0 Delete type=0 #3
+2021/03/12-01:55:49.147 b1d0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/12-01:55:49.402 b1d0 Level-0 table #7: started
+2021/03/12-01:55:49.435 b1d0 Level-0 table #7: 476 bytes OK
+2021/03/12-01:55:49.501 b1d0 Delete type=0 #4
+2021/03/12-01:55:49.501 b1d0 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/12-01:56:02.545 b1d0 Level-0 table #9: started
+2021/03/12-01:56:03.059 b1d0 Level-0 table #9: 34638 bytes OK
+2021/03/12-01:56:03.920 b1d0 Delete type=0 #6
+2021/03/12-01:56:03.920 b1d0 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 2586 : 1
+2021/03/12-01:56:03.920 b1d0 Compacting 1@0 + 1@1 files
+2021/03/12-01:56:04.882 b1d0 Generated table #10@0: 1482 keys, 17354 bytes
+2021/03/12-01:56:04.882 b1d0 Compacted 1@0 + 1@1 files => 17354 bytes
+2021/03/12-01:56:05.191 b1d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/12-01:56:05.191 b1d0 Delete type=2 #9
+2021/03/12-01:56:05.192 b1d0 Level-0 table #12: started
+2021/03/12-01:56:05.192 b1d0 Level-0 table #12: 0 bytes OK
+2021/03/12-01:56:05.325 b1d0 Delete type=0 #8
+2021/03/12-01:56:05.326 b1d0 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 2586 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/12-01:56:05.328 b1d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/12-01:56:05.328 b1d0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2593 : 1
+2021/03/12-01:56:05.328 b1d0 Compacting 1@1 + 1@2 files
+2021/03/12-01:56:05.426 b1d0 Generated table #13@1: 590 keys, 9660 bytes
+2021/03/12-01:56:05.426 b1d0 Compacted 1@1 + 1@2 files => 9660 bytes
+2021/03/12-01:56:05.603 b1d0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/12-01:56:05.603 b1d0 Delete type=2 #7
+2021/03/12-01:56:05.603 b1d0 Delete type=2 #5
+2021/03/12-01:56:05.603 b1d0 Delete type=2 #10
+2021/03/12-01:56:05.604 b1d0 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2593 : 1 .. (end); will stop at (end)

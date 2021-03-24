@@ -1,0 +1,6 @@
+2021/03/22-18:26:02.814 50b4 Reusing MANIFEST /home/unknownabyss/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/03/22-18:26:02.856 50b4 Recovering log #581
+2021/03/22-18:26:02.964 50b4 Reusing old log /home/unknownabyss/.config/discord/Local Storage/leveldb/000581.log 
+2021/03/22-22:06:42.293 6d72 Level-0 table #585: started
+2021/03/22-22:06:42.579 6d72 Level-0 table #585: 14884 bytes OK
+2021/03/22-22:06:42.787 6d72 Delete type=0 #581

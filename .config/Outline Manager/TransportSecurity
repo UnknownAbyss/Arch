@@ -1,0 +1,14 @@
+{
+   "/Io2PStL7/jvcod3tT0jPo73HDnRILY4Di46SHjGwTk=": {
+      "expiry": 1647951205.126829,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1616415205.126831
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1627301577.355532,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1616415177.355535
+   }
+}

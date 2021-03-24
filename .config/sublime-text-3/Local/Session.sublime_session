@@ -1,0 +1,703 @@
+{
+	"folder_history":
+	[
+		"/home/unknownabyss/Documents/Coding/Discord-Snitch",
+		"/home/unknownabyss/Documents",
+		"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend",
+		"/home/unknownabyss/Documents/Coding/devspace-bot",
+		"/home/unknownabyss/Documents/Coding/the-hunt-backend",
+		"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac",
+		"/home/unknownabyss/Downloads/assets",
+		"/home/unknownabyss/Documents/Coding/WomenTechies/WT",
+		"/home/unknownabyss/Documents/Coding/AmeeTester",
+		"/home/unknownabyss/Documents/VIT/Semester-2/DSA",
+		"/home/unknownabyss/Documents/devspace-bot"
+	],
+	"last_version": 3211,
+	"last_window_id": 33,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"str",
+						"string.h\tstandard header"
+					],
+					[
+						"a",
+						"age"
+					],
+					[
+						"st",
+						"stdio.h\tstandard header"
+					],
+					[
+						"log",
+						"log_foot"
+					],
+					[
+						"main",
+						"mainApi"
+					],
+					[
+						"sta",
+						"status\t: DOMString Window"
+					],
+					[
+						"resp",
+						"responseJSON"
+					],
+					[
+						"user",
+						"userData"
+					],
+					[
+						"all",
+						"allUsers"
+					],
+					[
+						"setTime",
+						"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+					],
+					[
+						"func",
+						"Function\t( paramsAndBody_..: string ): Function Function"
+					],
+					[
+						"bac",
+						"background-color\tproperty"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"pass",
+						"passCheck"
+					],
+					[
+						"cono",
+						"console.log"
+					],
+					[
+						"cos",
+						"console.log"
+					],
+					[
+						"console",
+						"console.log"
+					],
+					[
+						"res",
+						"res.json([body])"
+					],
+					[
+						"cons",
+						"console.log"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"ques",
+						"question"
+					],
+					[
+						"leade",
+						"leaderboardapi"
+					],
+					[
+						"add",
+						"addrole\tfunction"
+					],
+					[
+						"ge",
+						"get_member\tfunction"
+					],
+					[
+						"g",
+						"guild\tmodule"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"syntax C",
+						"Set Syntax: C"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rain",
+						"RainbowBrackets: make rainbow"
+					],
+					[
+						"c synta",
+						"Set Syntax: C"
+					],
+					[
+						"syntax pyt",
+						"Build With: Python - Syntax Check"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/unknownabyss/Documents/Coding/Discord-Snitch/discord-snitch.py",
+				"/home/unknownabyss/Downloads/wordtext.txt",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/views/register.hbs",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/routers/api.js",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/routers/leaderboardApi.js",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/index.js",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/models/users.js",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/models/questions.js",
+				"/home/unknownabyss/Documents/Duties.md",
+				"/home/unknownabyss/Documents/Coding/Discord-Snitch/requirements.txt",
+				"/home/unknownabyss/Documents/Coding/devspace-bot/bot.py",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/routers/leaderboardApi.js",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/static/register.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/templates/login.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/static/assets/css/Registration-Form-with-Photo.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/templates/Register.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/templates/register.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/urls.py",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/AddTrac/settings.py",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/templates/home.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/db.sqlite3",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/AddTrac/urls.py",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/static/style.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/AddTrac/.env",
+				"/home/unknownabyss/Documents/Coding/devspace-bot-extra/env.json",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/sampletypinggame/static/style.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/templates/home.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/sampletypinggame/settings.py",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/static/style.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/templates/style.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/requirements.txt",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/sampletypinggame/.env",
+				"/home/unknownabyss/Documents/Coding/AmeeTester/README.md",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/models/questions.js",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/index.js",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/.env",
+				"/home/unknownabyss/Documents/Coding/CTF/dvCTF/flag_sur_fond_de_soleil_couchant.jpg",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/models/users.js",
+				"/tmp/mozilla_unknownabyss0/Covered_or_Concealed-1.md",
+				"/home/unknownabyss/Documents/Coding/C_dump/trash.c",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/routers/api.js",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/random.md",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/selectionsort.c",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/insertionsort.c",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/bubblesort.c",
+				"/home/unknownabyss/Downloads/locked",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/quicksort.c",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/mergesort.c",
+				"/usr/share/dunst/dunstrc",
+				"/home/unknownabyss/Downloads/dunstrc1",
+				"/home/unknownabyss/Documents/devspace-bot/bot.py"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 322.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"h"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 110.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 133.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 202.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"str",
+						"string.h\tstandard header"
+					],
+					[
+						"a",
+						"age"
+					],
+					[
+						"st",
+						"stdio.h\tstandard header"
+					],
+					[
+						"log",
+						"log_foot"
+					],
+					[
+						"main",
+						"mainApi"
+					],
+					[
+						"sta",
+						"status\t: DOMString Window"
+					],
+					[
+						"resp",
+						"responseJSON"
+					],
+					[
+						"user",
+						"userData"
+					],
+					[
+						"all",
+						"allUsers"
+					],
+					[
+						"setTime",
+						"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+					],
+					[
+						"func",
+						"Function\t( paramsAndBody_..: string ): Function Function"
+					],
+					[
+						"bac",
+						"background-color\tproperty"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"pass",
+						"passCheck"
+					],
+					[
+						"cono",
+						"console.log"
+					],
+					[
+						"cos",
+						"console.log"
+					],
+					[
+						"console",
+						"console.log"
+					],
+					[
+						"res",
+						"res.json([body])"
+					],
+					[
+						"cons",
+						"console.log"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"ques",
+						"question"
+					],
+					[
+						"leade",
+						"leaderboardapi"
+					],
+					[
+						"add",
+						"addrole\tfunction"
+					],
+					[
+						"ge",
+						"get_member\tfunction"
+					],
+					[
+						"g",
+						"guild\tmodule"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"syntax C",
+						"Set Syntax: C"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rain",
+						"RainbowBrackets: make rainbow"
+					],
+					[
+						"c synta",
+						"Set Syntax: C"
+					],
+					[
+						"syntax pyt",
+						"Build With: Python - Syntax Check"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/unknownabyss/Documents/Coding/Discord-Snitch"
+			],
+			"file_history":
+			[
+				"/home/unknownabyss/Documents/Coding/Discord-Snitch/discord-snitch.py",
+				"/home/unknownabyss/Downloads/wordtext.txt",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/views/register.hbs",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/routers/api.js",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/routers/leaderboardApi.js",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/index.js",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/models/users.js",
+				"/home/unknownabyss/Documents/Coding/ScamPulls/the-hunt-backend/models/questions.js",
+				"/home/unknownabyss/Documents/Duties.md",
+				"/home/unknownabyss/Documents/Coding/Discord-Snitch/requirements.txt",
+				"/home/unknownabyss/Documents/Coding/devspace-bot/bot.py",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/routers/leaderboardApi.js",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/static/register.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/templates/login.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/static/assets/css/Registration-Form-with-Photo.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/templates/Register.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/templates/register.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/urls.py",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/AddTrac/settings.py",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/templates/home.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/db.sqlite3",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/AddTrac/urls.py",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/signup/static/style.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/AddTrac/AddTrac/.env",
+				"/home/unknownabyss/Documents/Coding/devspace-bot-extra/env.json",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/sampletypinggame/static/style.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/templates/home.html",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/sampletypinggame/settings.py",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/static/style.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/templates/style.css",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/requirements.txt",
+				"/home/unknownabyss/Documents/Coding/WomenTechies/WT/sampletypinggame/.env",
+				"/home/unknownabyss/Documents/Coding/AmeeTester/README.md",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/models/questions.js",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/index.js",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/.env",
+				"/home/unknownabyss/Documents/Coding/CTF/dvCTF/flag_sur_fond_de_soleil_couchant.jpg",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/models/users.js",
+				"/tmp/mozilla_unknownabyss0/Covered_or_Concealed-1.md",
+				"/home/unknownabyss/Documents/Coding/C_dump/trash.c",
+				"/home/unknownabyss/Documents/Coding/the-hunt-backend/routers/api.js",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/random.md",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/selectionsort.c",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/insertionsort.c",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/bubblesort.c",
+				"/home/unknownabyss/Downloads/locked",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/quicksort.c",
+				"/home/unknownabyss/Documents/VIT/Semester-2/DSA/mergesort.c",
+				"/usr/share/dunst/dunstrc",
+				"/home/unknownabyss/Downloads/dunstrc1",
+				"/home/unknownabyss/Documents/devspace-bot/bot.py"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 322.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/unknownabyss/Documents/Coding/Discord-Snitch"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 110.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 133.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 202.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,6,35,956,1072,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 33,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

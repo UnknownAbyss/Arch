@@ -1,0 +1,87 @@
+2021/03/23-20:09:34.173 1f7ee Reusing MANIFEST /home/unknownabyss/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/03/23-20:09:34.174 1f7ee Recovering log #266
+2021/03/23-20:09:34.174 1f7ee Reusing old log /home/unknownabyss/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000266.log 
+2021/03/23-20:10:08.809 1f9b9 Level-0 table #270: started
+2021/03/23-20:10:08.856 1f9b9 Level-0 table #270: 58494 bytes OK
+2021/03/23-20:10:08.893 1f9b9 Delete type=0 #266
+2021/03/23-20:12:24.141 1f9b9 Level-0 table #272: started
+2021/03/23-20:12:24.193 1f9b9 Level-0 table #272: 38409 bytes OK
+2021/03/23-20:12:24.229 1f9b9 Delete type=0 #269
+2021/03/23-21:07:30.884 1f9b9 Level-0 table #274: started
+2021/03/23-21:07:30.931 1f9b9 Level-0 table #274: 44665 bytes OK
+2021/03/23-21:07:30.966 1f9b9 Delete type=0 #271
+2021/03/23-21:07:30.967 1f9b9 Compacting 4@0 + 1@1 files
+2021/03/23-21:07:31.054 1f9b9 Generated table #275@0: 364 keys, 667364 bytes
+2021/03/23-21:07:31.054 1f9b9 Compacted 4@0 + 1@1 files => 667364 bytes
+2021/03/23-21:07:31.088 1f9b9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/23-21:07:31.089 1f9b9 Delete type=2 #272
+2021/03/23-21:07:31.089 1f9b9 Delete type=2 #265
+2021/03/23-21:07:31.089 1f9b9 Delete type=2 #267
+2021/03/23-21:07:31.089 1f9b9 Delete type=2 #274
+2021/03/23-21:07:31.089 1f9b9 Delete type=2 #270
+2021/03/23-22:05:45.215 1f9b9 Level-0 table #277: started
+2021/03/23-22:05:45.264 1f9b9 Level-0 table #277: 51550 bytes OK
+2021/03/23-22:05:45.299 1f9b9 Delete type=0 #273
+2021/03/23-22:17:56.639 1f9b9 Level-0 table #279: started
+2021/03/23-22:17:56.690 1f9b9 Level-0 table #279: 49655 bytes OK
+2021/03/23-22:17:56.731 1f9b9 Delete type=0 #276
+2021/03/23-23:09:44.120 1f9b9 Level-0 table #281: started
+2021/03/23-23:09:44.172 1f9b9 Level-0 table #281: 47520 bytes OK
+2021/03/23-23:09:44.207 1f9b9 Delete type=0 #278
+2021/03/24-00:01:45.194 1f9b9 Level-0 table #283: started
+2021/03/24-00:01:45.254 1f9b9 Level-0 table #283: 61760 bytes OK
+2021/03/24-00:01:45.290 1f9b9 Delete type=0 #280
+2021/03/24-00:01:45.290 1f9b9 Compacting 4@0 + 1@1 files
+2021/03/24-00:01:45.343 1f9b9 Generated table #284@0: 364 keys, 665493 bytes
+2021/03/24-00:01:45.343 1f9b9 Compacted 4@0 + 1@1 files => 665493 bytes
+2021/03/24-00:01:45.410 1f9b9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/24-00:01:45.411 1f9b9 Delete type=2 #275
+2021/03/24-00:01:45.411 1f9b9 Delete type=2 #281
+2021/03/24-00:01:45.411 1f9b9 Delete type=2 #277
+2021/03/24-00:01:45.411 1f9b9 Delete type=2 #279
+2021/03/24-00:01:45.411 1f9b9 Delete type=2 #283
+2021/03/24-00:26:05.785 1f9b9 Level-0 table #286: started
+2021/03/24-00:26:05.847 1f9b9 Level-0 table #286: 50327 bytes OK
+2021/03/24-00:26:05.883 1f9b9 Delete type=0 #282
+2021/03/24-01:09:44.127 1f9b9 Level-0 table #288: started
+2021/03/24-01:09:44.177 1f9b9 Level-0 table #288: 47540 bytes OK
+2021/03/24-01:09:44.218 1f9b9 Delete type=0 #285
+2021/03/24-01:57:52.374 1f9b9 Level-0 table #290: started
+2021/03/24-01:57:52.434 1f9b9 Level-0 table #290: 61936 bytes OK
+2021/03/24-01:57:52.470 1f9b9 Delete type=0 #287
+2021/03/24-02:35:31.827 1f9b9 Level-0 table #292: started
+2021/03/24-02:35:31.889 1f9b9 Level-0 table #292: 50456 bytes OK
+2021/03/24-02:35:31.924 1f9b9 Delete type=0 #289
+2021/03/24-02:35:31.924 1f9b9 Compacting 4@0 + 1@1 files
+2021/03/24-02:35:31.980 1f9b9 Generated table #293@0: 364 keys, 666905 bytes
+2021/03/24-02:35:31.980 1f9b9 Compacted 4@0 + 1@1 files => 666905 bytes
+2021/03/24-02:35:32.012 1f9b9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/24-02:35:32.013 1f9b9 Delete type=2 #284
+2021/03/24-02:35:32.013 1f9b9 Delete type=2 #290
+2021/03/24-02:35:32.013 1f9b9 Delete type=2 #286
+2021/03/24-02:35:32.013 1f9b9 Delete type=2 #288
+2021/03/24-02:35:32.013 1f9b9 Delete type=2 #292
+2021/03/24-03:29:44.890 1f9b9 Level-0 table #295: started
+2021/03/24-03:29:44.942 1f9b9 Level-0 table #295: 47589 bytes OK
+2021/03/24-03:29:44.975 1f9b9 Delete type=0 #291
+2021/03/24-03:53:53.091 1f9b9 Level-0 table #297: started
+2021/03/24-03:53:53.152 1f9b9 Level-0 table #297: 44188 bytes OK
+2021/03/24-03:53:53.190 1f9b9 Delete type=0 #294
+2021/03/24-04:09:52.194 1f9b9 Level-0 table #299: started
+2021/03/24-04:09:52.264 1f9b9 Level-0 table #299: 50334 bytes OK
+2021/03/24-04:09:52.321 1f9b9 Delete type=0 #296
+2021/03/24-05:15:03.774 1f9b9 Level-0 table #301: started
+2021/03/24-05:15:03.823 1f9b9 Level-0 table #301: 57778 bytes OK
+2021/03/24-05:15:03.861 1f9b9 Delete type=0 #298
+2021/03/24-05:15:03.861 1f9b9 Compacting 4@0 + 1@1 files
+2021/03/24-05:15:03.980 1f9b9 Generated table #302@0: 364 keys, 666795 bytes
+2021/03/24-05:15:03.980 1f9b9 Compacted 4@0 + 1@1 files => 666795 bytes
+2021/03/24-05:15:04.016 1f9b9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/24-05:15:04.016 1f9b9 Delete type=2 #301
+2021/03/24-05:15:04.016 1f9b9 Delete type=2 #297
+2021/03/24-05:15:04.016 1f9b9 Delete type=2 #295
+2021/03/24-05:15:04.016 1f9b9 Delete type=2 #299
+2021/03/24-05:15:04.016 1f9b9 Delete type=2 #293
+2021/03/24-05:39:55.160 1f9b9 Level-0 table #304: started
+2021/03/24-05:39:55.331 1f9b9 Level-0 table #304: 48548 bytes OK
+2021/03/24-05:39:55.427 1f9b9 Delete type=0 #300

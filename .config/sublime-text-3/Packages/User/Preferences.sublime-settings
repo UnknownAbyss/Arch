@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Sublimerge Pro",
+		"Vintage"
+	],
+	"theme": "gruvbox.sublime-theme"
+}

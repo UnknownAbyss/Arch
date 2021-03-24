@@ -1,0 +1,15 @@
+2021/03/23-15:56:05.400 3 Reusing MANIFEST /home/unknownabyss/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/23-15:56:05.402 3 Recovering log #3
+2021/03/23-15:56:05.403 3 Reusing old log /home/unknownabyss/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2021/03/23-16:11:43.916 f Level-0 table #5: started
+2021/03/23-16:11:43.973 f Level-0 table #5: 43951 bytes OK
+2021/03/23-16:11:44.011 f Delete type=0 #3
+2021/03/23-16:15:15.344 12 Level-0 table #7: started
+2021/03/23-16:15:15.501 12 Level-0 table #7: 98824 bytes OK
+2021/03/23-16:15:15.561 12 Delete type=0 #4
+2021/03/23-16:23:24.677 14 Level-0 table #9: started
+2021/03/23-16:23:24.732 14 Level-0 table #9: 37342 bytes OK
+2021/03/23-16:23:24.775 14 Delete type=0 #6
+2021/03/23-16:35:13.308 14 Level-0 table #11: started
+2021/03/23-16:35:13.427 14 Level-0 table #11: 98420 bytes OK
+2021/03/23-16:35:13.496 14 Delete type=0 #8

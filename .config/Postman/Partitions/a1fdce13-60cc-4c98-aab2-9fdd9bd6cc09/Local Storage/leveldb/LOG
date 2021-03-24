@@ -1,0 +1,6 @@
+2021/03/18-15:03:34.239 1392 Reusing MANIFEST /home/unknownabyss/.config/Postman/Partitions/a1fdce13-60cc-4c98-aab2-9fdd9bd6cc09/Local Storage/leveldb/MANIFEST-000001
+2021/03/18-15:03:34.241 1392 Recovering log #3
+2021/03/18-15:03:34.472 1392 Reusing old log /home/unknownabyss/.config/Postman/Partitions/a1fdce13-60cc-4c98-aab2-9fdd9bd6cc09/Local Storage/leveldb/000003.log 
+2021/03/18-16:09:32.717 27e0 Level-0 table #5: started
+2021/03/18-16:09:32.778 27e0 Level-0 table #5: 23250 bytes OK
+2021/03/18-16:09:32.872 27e0 Delete type=0 #3

@@ -1,0 +1,63 @@
+2021/03/24-12:04:39.852 129a Reusing MANIFEST /home/unknownabyss/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/24-12:04:39.852 129a Recovering log #586
+2021/03/24-12:04:40.592 129a Reusing old log /home/unknownabyss/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000586.log 
+2021/03/24-12:04:51.124 13d5 Level-0 table #594: started
+2021/03/24-12:04:51.342 13d5 Level-0 table #594: 1701528 bytes OK
+2021/03/24-12:04:51.543 13d5 Delete type=0 #586
+2021/03/24-12:04:52.312 13d5 Compacting 1@1 + 4@2 files
+2021/03/24-12:04:52.912 13d5 Generated table #595@1: 5961 keys, 2154565 bytes
+2021/03/24-12:04:53.474 13d5 Generated table #596@1: 10667 keys, 2222674 bytes
+2021/03/24-12:04:53.937 13d5 Generated table #597@1: 4264 keys, 2134710 bytes
+2021/03/24-12:04:54.318 13d5 Generated table #598@1: 6578 keys, 1571424 bytes
+2021/03/24-12:04:54.318 13d5 Compacted 1@1 + 4@2 files => 8083373 bytes
+2021/03/24-12:04:54.399 13d5 compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/03/24-12:04:54.399 13d5 Delete type=2 #594
+2021/03/24-12:04:54.399 13d5 Delete type=2 #590
+2021/03/24-12:04:54.399 13d5 Delete type=2 #589
+2021/03/24-12:04:54.399 13d5 Delete type=2 #591
+2021/03/24-12:04:54.399 13d5 Delete type=2 #588
+2021/03/24-13:19:39.997 13d5 Level-0 table #600: started
+2021/03/24-13:19:40.102 13d5 Level-0 table #600: 1078878 bytes OK
+2021/03/24-13:19:40.219 13d5 Delete type=0 #593
+2021/03/24-14:19:02.272 13d5 Compacting 1@1 + 4@2 files
+2021/03/24-14:19:02.410 13d5 Generated table #601@1: 6468 keys, 2156413 bytes
+2021/03/24-14:19:02.610 13d5 Generated table #602@1: 10378 keys, 2184128 bytes
+2021/03/24-14:19:02.699 13d5 Generated table #603@1: 3495 keys, 2130746 bytes
+2021/03/24-14:19:02.832 13d5 Generated table #604@1: 7400 keys, 1626264 bytes
+2021/03/24-14:19:02.832 13d5 Compacted 1@1 + 4@2 files => 8097551 bytes
+2021/03/24-14:19:03.089 13d5 compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/03/24-14:19:03.089 13d5 Delete type=2 #600
+2021/03/24-14:19:03.089 13d5 Delete type=2 #598
+2021/03/24-14:19:03.089 13d5 Delete type=2 #596
+2021/03/24-14:19:03.089 13d5 Delete type=2 #595
+2021/03/24-14:19:03.089 13d5 Delete type=2 #597
+2021/03/24-15:35:42.847 13d5 Level-0 table #606: started
+2021/03/24-15:35:42.962 13d5 Level-0 table #606: 1028233 bytes OK
+2021/03/24-15:35:43.028 13d5 Delete type=0 #599
+2021/03/24-15:54:42.716 13d5 Compacting 1@1 + 4@2 files
+2021/03/24-15:54:42.859 13d5 Generated table #607@1: 6006 keys, 2155371 bytes
+2021/03/24-15:54:42.982 13d5 Generated table #608@1: 10849 keys, 2233828 bytes
+2021/03/24-15:54:43.082 13d5 Generated table #609@1: 3405 keys, 2130548 bytes
+2021/03/24-15:54:43.237 13d5 Generated table #610@1: 7502 keys, 1633020 bytes
+2021/03/24-15:54:43.237 13d5 Compacted 1@1 + 4@2 files => 8152767 bytes
+2021/03/24-15:54:43.329 13d5 compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/03/24-15:54:43.329 13d5 Delete type=2 #606
+2021/03/24-15:54:43.329 13d5 Delete type=2 #604
+2021/03/24-15:54:43.329 13d5 Delete type=2 #602
+2021/03/24-15:54:43.329 13d5 Delete type=2 #603
+2021/03/24-15:54:43.329 13d5 Delete type=2 #601
+2021/03/24-16:03:00.508 13d5 Level-0 table #612: started
+2021/03/24-16:03:00.623 13d5 Level-0 table #612: 1024699 bytes OK
+2021/03/24-16:03:00.684 13d5 Delete type=0 #605
+2021/03/24-17:01:58.990 13d5 Compacting 1@1 + 4@2 files
+2021/03/24-17:01:59.173 13d5 Generated table #613@1: 6216 keys, 2155059 bytes
+2021/03/24-17:01:59.296 13d5 Generated table #614@1: 10657 keys, 2211974 bytes
+2021/03/24-17:01:59.396 13d5 Generated table #615@1: 3362 keys, 2130436 bytes
+2021/03/24-17:01:59.507 13d5 Generated table #616@1: 7557 keys, 1635695 bytes
+2021/03/24-17:01:59.507 13d5 Compacted 1@1 + 4@2 files => 8133164 bytes
+2021/03/24-17:01:59.547 13d5 compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/03/24-17:01:59.549 13d5 Delete type=2 #607
+2021/03/24-17:01:59.549 13d5 Delete type=2 #608
+2021/03/24-17:01:59.549 13d5 Delete type=2 #612
+2021/03/24-17:01:59.549 13d5 Delete type=2 #609
+2021/03/24-17:01:59.549 13d5 Delete type=2 #610

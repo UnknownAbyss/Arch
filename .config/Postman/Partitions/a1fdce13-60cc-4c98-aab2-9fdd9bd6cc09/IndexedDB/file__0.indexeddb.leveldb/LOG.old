@@ -1,0 +1,11 @@
+2021/03/16-23:11:24.550 a7e7 Reusing MANIFEST /home/unknownabyss/.config/Postman/Partitions/a1fdce13-60cc-4c98-aab2-9fdd9bd6cc09/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/03/16-23:11:24.550 a7e7 Recovering log #28
+2021/03/16-23:11:24.555 a7e7 Reusing old log /home/unknownabyss/.config/Postman/Partitions/a1fdce13-60cc-4c98-aab2-9fdd9bd6cc09/IndexedDB/file__0.indexeddb.leveldb/000028.log 
+2021/03/16-23:11:38.906 a8c0 Level-0 table #33: started
+2021/03/16-23:11:38.961 a8c0 Level-0 table #33: 385867 bytes OK
+2021/03/16-23:11:38.994 a8c0 Delete type=0 #28
+2021/03/16-23:11:38.995 a8c0 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/16-23:12:24.298 a8c0 Compacting 1@1 + 1@2 files
+2021/03/16-23:12:24.353 a8c0 Generated table #34@1: 1407 keys, 106785 bytes
+2021/03/16-23:12:24.353 a8c0 Compacted 1@1 + 1@2 files => 106785 bytes
+2021/03/16-23:12:24.398 a8c0 compacted to: files[ 0 0 1 0 0 0 0 ]
